@@ -1,10 +1,3 @@
-<!-- =============================== -->
-<!-- HEADER -->
-<!-- =============================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-summary-card-output/github/0-profile-details.svg" alt="header" />
-</p>
-
 <h1 align="center">👋 Hello, I'm <b>Mr-Unchain（篤弥）</b></h1>
 <p align="center">
   <b>Backend Engineer × AI Productivity Engineer</b><br>
@@ -99,15 +92,6 @@ AI×個人開発×実務知見をまとめた技術ブログ。
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Unchain&theme=blueberry&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Unchain&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 # 🔗 Links
 
 - **GitHub**：https://github.com/Mr-Unchain  
@@ -119,3 +103,4 @@ AI×個人開発×実務知見をまとめた技術ブログ。
 <p align="center">
   AI と共に問題解決し、価値ある開発体験をつくり続けます。
 </p>
+
