@@ -1,22 +1,43 @@
+<!-- =============================== -->
+<!-- HEADER -->
+<!-- =============================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-summary-card-output/github/0-profile-details.svg" alt="header" />
+</p>
+
 <h1 align="center">👋 Hello, I'm <b>Mr-Unchain（篤弥）</b></h1>
 <p align="center">
-  <b>Backend Engineer / Full-stack Developer / AI Productivity Enthusiast</b><br>
-  Java × AS400 × React × Next.js｜業務系 × モダン開発 × AI活用
+  <b>Backend Engineer × AI Productivity Engineer</b><br>
+  業務ロジック理解 × レガシー刷新 × AI活用を強みとするエンジニア
 </p>
 
 ---
 
-# 🚀 About Me
+# 🤖 AI Productivity — 私の強み
 
-- SI → Web系へのスキル転換を進めているバックエンドエンジニア  
-- **AS400（RPG/CL/DDS）× Java × SPA（React/Next.js）** を扱える希少なハイブリッド型  
-- 複雑な業務ロジックを読み解き、**リプレイス・性能改善・AI活用** を得意とする  
-- 個人開発でも **モダン技術（Next.js / Supabase / Tailwind / AI / MCP）** を積極採用  
-- 技術ブログも運営中（実務×個人開発×AI活用を中心に発信）
+AI を道具として使うのではなく、  
+**AI × エンジニアリングで「仕組み化」することに最も強みがあります。**
+
+### 🌟 AI を活用して実際に行った取り組み（実務）
+- **Copilot + 自作プロンプト** による  
+  → ストアドプロシージャ自動生成テンプレート  
+  → AS400資材のロジック解析  
+  → Java・RPG の相関ロジックチェックの加速
+- **業務ロジックの自動ドキュメント化パイプライン**  
+  → RPG の複雑な処理を AI に解析させ Markdown へ  
+  → Obsidian で体系化し PDF 化  
+- **MCP サーバーへのコントリビュート（PR マージ済）**  
+  → RPG/CL/DDS を GitHub 上で扱いやすくする改善  
+  → AS400 開発環境を VSCode + AI に統合する取り組みに参画中
+- **Teams 運用の改善（手動 → 仕組み化）**  
+  → 生産チームのタスク管理/連絡フローを整理  
+  → 開発効率向上につながる運用改善を実施  
+
+🔹 職種に縛られず、課題を見つけ → AI × 自動化で改善するのが得意です。
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Stack（AI 活用に強いフルスタック）
 
 ### **Languages**
 <p>
@@ -24,90 +45,77 @@
   <img src="https://img.shields.io/badge/RPGLE-005C5C?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/CL-003B57?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### **Framework / Runtime**
 <p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
 </p>
 
 ### **Cloud / Infra**
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon-0087FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+  <img src="https://img.shields.io/badge/Neon-0087FF?style=for-the-badge&logo=postgresql"/>
 </p>
 
-### **Tools**
+### **AI / Automation**
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-black?style=for-the-badge&logo=githubcopilot"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-# 📚 Featured Articles（技術ブログ）
+# 📦 Featured Projects（AI 活用 × 個人開発）
 
-> 個人開発・実務テックノート・AI活用Tipsなどを発信しています。
-
-📘 **My Tech Blog（my-tech-blog）**  
-https://github.com/Mr-Unchain/my-tech-blog
-
-- AS400×Javaハイブリッド開発での学び  
-- AI / MCP を活用した業務効率化  
-- Next.js × Supabase の実装ノウハウ  
-- 個人開発プロダクトのアーキテクチャ公開  
-
----
-
-# 🧩 Featured Projects
-
-### 🎵 **Nowtune – AI × 音楽SNS プラットフォーム（開発中）**
-- Next.js × TypeScript × Supabase
-- MCP（Brave Search / GitHub / Filesystem）連携
-- Clean Architecture / モダン開発実践中  
+## 🎵 **Nowtune – AI × 音楽SNS プラットフォーム（開発中）**
+- Next.js / Supabase / MCP / Clean Architecture
+- Brave Search MCP による外部データ連携
+- AI を前提にした開発効率向上環境
 👉 https://github.com/Mr-Unchain/nowtune
 
 ---
 
-### 📚 **my-tech-blog – 技術ブログ（Next.js）**
-- Tailwind + App Router
-- 自動デプロイ（Vercel）
-- 技術メモからキャリア戦略まで幅広く発信  
+## 📘 **技術ブログ（my-tech-blog）**
+AI×個人開発×実務知見をまとめた技術ブログ。
+
+- モダン環境構築  
+- AI 活用術  
+- 実務での AS400 × Java のハイブリッド開発記録  
 👉 https://github.com/Mr-Unchain/my-tech-blog
 
 ---
 
-### 🤖 **AI News Media – 自動ニュース収集サービス（開発中）**
-- Supabase / Cron / OpenAI API
-- MCP（Brave Search）と連携して自動収集  
-👉（後日公開予定）
+# 🧩 Strengths（AI × 課題解決）
+
+### ✔ レガシー資産 × モダン技術 × AI の橋渡しができる  
+### ✔ AI を使いこなすだけでなく「仕組み化」できる  
+### ✔ 業務ロジックの深い理解＋リプレイス経験  
+### ✔ 開発環境やチーム運用に自ら手を入れ改善できる  
 
 ---
 
-# 🧠 Strengths
+# 📈 GitHub Stats
 
-### ✔ AS400 × Java × SPA のフルレイヤー理解  
-### ✔ 調査力・ロジック理解力・レガシー刷新の実装力  
-### ✔ AI × Copilot × MCP を活用した生産性最大化  
-### ✔ セルフ駆動で仕組み改善（Teams整備・環境改善・MCP PR など）
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Unchain&theme=blueberry&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Unchain&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
 # 🔗 Links
 
 - **GitHub**：https://github.com/Mr-Unchain  
-- **Blog Repo**：https://github.com/Mr-Unchain/my-tech-blog  
+- **技術ブログ（リポジトリ）**：https://github.com/Mr-Unchain/my-tech-blog  
 - **Email**：ayust_a.work@outlook.jp
 
 ---
 
 <p align="center">
-  Thanks for visiting! ⭐︎ Star & Follow will motivate me :)
+  AI と共に問題解決し、価値ある開発体験をつくり続けます。
 </p>
-
